@@ -1,5 +1,5 @@
 {
-  "name": "valley-module-tpl",
+  "name": "vtpl-module",
   "version": "1.0.0",
   "description": "valley-tpl for valley-module",
   "main": "index.js",
